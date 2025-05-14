@@ -1,2 +1,2 @@
-# Customer-Retention-Analysis
-This project explores customer churn patterns for a telecommunications company using the Telco Customer Churn dataset. The goal is to uncover trends that influence churn and provide data-driven insights for customer retention. 
+# Customer Retention Analysis
+![](https://github.com/Vhiktoria/Customer-Retention-Analysis/blob/main/Black%20and%20White%20Simple%20Professional%20Data%20Analysis%20Presentation_20250514_161626_0000.jpg)
